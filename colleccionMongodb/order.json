@@ -1,0 +1,101 @@
+[{
+  "_id": "1",
+  "status": "Completed",
+  "date": {
+    "$date": {
+      "$numberLong": "1675209600000"
+    }
+  },
+  "customer": "bazalar",
+  "taxesAmounts": 27.234800000000003,
+  "totalTaxes": 27.234800000000003,
+  "totalAmount": 127.23479999999999,
+  "orderItems": [
+    {
+      "product": "12 coca cola de 3L",
+      "price": 100,
+      "quantity": 1
+    }
+  ],
+  "_class": "com.nttdatates.testnttdata.Order"
+},{
+  "_id": "2",
+  "status": "Rejected",
+  "date": {
+    "$date": {
+      "$numberLong": "1675209600000"
+    }
+  },
+  "customer": "neyra",
+  "taxesAmounts": 27.234800000000003,
+  "totalTaxes": 27.234800000000003,
+  "totalAmount": 127.23479999999999,
+  "orderItems": [
+    {
+      "product": "12 inka cola de 3L",
+      "price": 100,
+      "quantity": 1
+    }
+  ],
+  "_class": "com.nttdatates.testnttdata.Order"
+},{
+  "_id": "3",
+  "status": "Completed",
+  "date": {
+    "$date": {
+      "$numberLong": "1675209600000"
+    }
+  },
+  "customer": "bazalar neyra ",
+  "taxesAmounts": 27.234800000000003,
+  "totalTaxes": 27.234800000000003,
+  "totalAmount": 127.23479999999999,
+  "orderItems": [
+    {
+      "product": "12 crush fanta de 3L",
+      "price": 100,
+      "quantity": 1
+    }
+  ],
+  "_class": "com.nttdatates.testnttdata.Order"
+},{
+  "_id": "4",
+  "status": "Pending",
+  "date": {
+    "$date": {
+      "$numberLong": "1675209600000"
+    }
+  },
+  "customer": "noah",
+  "taxesAmounts": 27.234800000000003,
+  "totalTaxes": 27.234800000000003,
+  "totalAmount": 127.23479999999999,
+  "orderItems": [
+    {
+      "product": "12 sprite de 3L",
+      "price": 100,
+      "quantity": 1
+    }
+  ],
+  "_class": "com.nttdatates.testnttdata.Order"
+},{
+  "_id": "5",
+  "status": "Pending",
+  "date": {
+    "$date": {
+      "$numberLong": "1675209600000"
+    }
+  },
+  "customer": "valentin",
+  "taxesAmounts": 27.234800000000003,
+  "totalTaxes": 27.234800000000003,
+  "totalAmount": 127.23479999999999,
+  "orderItems": [
+    {
+      "product": "12 kola inglesa de 3L",
+      "price": 100,
+      "quantity": 1
+    }
+  ],
+  "_class": "com.nttdatates.testnttdata.Order"
+}]
